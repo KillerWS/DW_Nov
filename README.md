@@ -8,3 +8,7 @@ Baseline思路是：使用了OpenAI的预测训练模型Clip(图像和文本进�
 数据源增强：考虑时序多帧处理思路
 微调Clip模型：替换最后一层（可选）：指定新任务的类别以适应微调任务。
 To do...
+
+References & Resource
+CLIP: https://openai.com/blog/clip/
+预训练模型: https://huggingface.co/models
